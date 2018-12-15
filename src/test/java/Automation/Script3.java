@@ -6,7 +6,7 @@ public class Script3 {
 	{
 		// TODO Auto-generated method stub
 		System.out.println("Hi");
-
+		System.out.println(" Hello");
 	}
 
 }
